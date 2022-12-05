@@ -1012,8 +1012,8 @@ end)
 --#endregion
 
     local credits = creditsserver:Channel("✨ Credits")
-    credits:Label("Arpon AG#6612")
-    credits:Label("Forever4D#0001")
+    credits:Label("Wiwatz#9999")
+    credits:Label("semendemon#0376")
     credits:Label(" ")
 end
 
